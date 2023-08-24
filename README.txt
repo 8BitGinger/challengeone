@@ -7,7 +7,7 @@ Visuals
 Add screenshot of working live sit here. 
 
 url
-add URL to live site here: 
+add URL to live site here: 8BitGinger.github.io/css-demo-site
 
 
 Usage
