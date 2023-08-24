@@ -4,7 +4,7 @@ Description
 This is the completed Challenge 1 from Week 1 UTSA Full Stack Developer bootcamp.
 
 Visuals
-Add screenshot of working live sit here. 
+Screenshot here: .assets/images/Live Screenshot.jpg 
 
 url
 add URL to live site here: 8BitGinger.github.io/css-demo-site
